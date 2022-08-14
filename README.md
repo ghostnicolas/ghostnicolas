@@ -1,5 +1,5 @@
 <body>
-    <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nicolas.</h1>
+    <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nicolas.</h1>
     <br>
     <h2 align="center"> A little about myself </h2>
     <div align="center">
