@@ -16,4 +16,7 @@
         Game Lover; 🎮
     </li>
     <br><br>
+    <div>
+        <h2 align="left">Knowledges</h2>
+    </div>
 </body>
