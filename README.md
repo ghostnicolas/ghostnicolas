@@ -9,6 +9,6 @@
     A simple back-end developer; ⚙️
     </li>
     <li>
-    Student of @Rocketseat; 🧑‍🎓
+    Student of <a href="https://rocketseat.com.br">RocketSeat</a; 🧑‍🎓
     </li>
 </body>
