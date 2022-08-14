@@ -1,5 +1,6 @@
 <body>
     <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nicolas.</h1>
+    <p>Success has an uncanny ability to hide error.</p>
     <br>
     <h2 align="center"> 👤 A little about myself </h2>
     <div align="center">
