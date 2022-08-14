@@ -12,4 +12,7 @@
     <li>
         Student of <a href="https://rocketseat.com.br">RocketSeat</a>; 🧑‍🎓
     </li>
+    <li>
+        Game Lover; 🎮
+    </li>
 </body>
